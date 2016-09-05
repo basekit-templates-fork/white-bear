@@ -1,164 +1,175 @@
 {
-	"name":"The White Bear",
-	"thumbnail":"white-bear.png",
-	"templateType":"standard",
-	"pageTypes": ["home"], 
-	"tags": {
-		"en": ["clean","fancy","bold","positive","spirit","fit","healthy","flat"]
-	},
-	"images":[
+    "name": "The White Bear",
+    "thumbnail": "white-bear.png",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
+    "tags": {
+        "en": [
+            "clean",
+            "fancy",
+            "bold",
+            "positive",
+            "spirit",
+            "fit",
+            "healthy",
+            "flat"
+        ]
+    },
+    "images": [
         "images/feature.jpg"
     ],
-	"colorSwatches":
-	{
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#323131",
-            "color3":"#2c9ab7",
-            "color4":"#ffffff",
-            "color5":"#264B48",
-            "color6":"#ffffff",
-            "color7":"#323131"
+            "color1": "#ffffff",
+            "color2": "#323131",
+            "color3": "#2c9ab7",
+            "color4": "#ffffff",
+            "color5": "#264B48",
+            "color6": "#ffffff",
+            "color7": "#323131"
         },
         "Swatch 2": {
-           	"color1":"#ffffff",
-            "color2":"#92007B",
-            "color3":"#06A6B6",
-            "color4":"#ffffff",
-            "color5":"#000000",
-            "color6":"#ffffff",
-            "color7":"#92007B"
+            "color1": "#ffffff",
+            "color2": "#92007B",
+            "color3": "#06A6B6",
+            "color4": "#ffffff",
+            "color5": "#000000",
+            "color6": "#ffffff",
+            "color7": "#92007B"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#4E376E",
-            "color3":"#94B733",
-            "color4":"#ffffff",
-            "color5":"#444444",
-            "color6":"#ffffff",
-            "color7":"#4E376E"
+            "color1": "#ffffff",
+            "color2": "#4E376E",
+            "color3": "#94B733",
+            "color4": "#ffffff",
+            "color5": "#444444",
+            "color6": "#ffffff",
+            "color7": "#4E376E"
         },
         "Swatch 4": {
-           	"color1":"#ffffff",
-            "color2":"#057F9A",
-            "color3":"#A0BB02",
-            "color4":"#ffffff",
-            "color5":"#264B48",
-            "color6":"#ffffff",
-            "color7":"#4B4A42"
+            "color1": "#ffffff",
+            "color2": "#057F9A",
+            "color3": "#A0BB02",
+            "color4": "#ffffff",
+            "color5": "#264B48",
+            "color6": "#ffffff",
+            "color7": "#4B4A42"
         },
         "Swatch 5": {
-           "color1":"#ffffff",
-            "color2":"#88A803",
-            "color3":"#803F12",
-            "color4":"#ffffff",
-            "color5":"#264B48",
-            "color6":"#ffffff",
-            "color7":"#88A803"
+            "color1": "#ffffff",
+            "color2": "#88A803",
+            "color3": "#803F12",
+            "color4": "#ffffff",
+            "color5": "#264B48",
+            "color6": "#ffffff",
+            "color7": "#88A803"
         }
-	},
-	"fontSwatch": {
-		"title": "Montserrat / Trebuchet MS",
-		"font1": {
-			"font-family": "\"Oswald\", Arial, sans-serif",
-			"font-size": "36px",
-			"font-weight": "700",
-			"line-height": "50px",
-			"color": "@color-swatch2",
-			"background-color": "@color-swatch1",
-			"background-color-hover": "@color-swatch1",
-			"letter-spacing": "inherit"
-		},
-		"font2": {
-			"font-family": "\"Oswald\", Arial, sans-serif",
-			"font-size": "24px",
-			"font-weight": "700",
-			"line-height": "36px",
-			"color": "@color-swatch2",
-			"background-color": "@color-swatch2",
-			"background-color-hover": "@color-swatch2",
-			"letter-spacing": "inherit"
-		},
-		"font3": {
-			"font-family": "\"Oswald\", Arial, sans-serif",
-			"font-size": "20px",
-			"font-weight": "700",
-			"line-height": "36px",
-			"color": "@color-swatch2",
-			"background-color": "@color-swatch3",
-			"background-color-hover": "@color-swatch3",
-			"letter-spacing": "inherit"
-		},
-		"font4": {
-			"font-family": "\"Oswald\", Arial, sans-serif",
-			"font-size": "18px",
-			"font-weight": "700",
-			"line-height": "36px",
-			"color": "@color-swatch2",
-			"background-color": "@color-swatch4",
-			"background-color-hover": "@color-swatch4",
-			"letter-spacing": "inherit"
-		},
-		"font5": {
-			"font-family": "\"Open Sans\", Helvetica, Verdana, sans-serif",
-			"font-size": "16px",
-			"font-weight": "400",
-			"line-height": "25px",
-			"color": "@color-swatch5",
-			"background-color": "@color-swatch5",
-			"background-color-hover": "@color-swatch5",
-			"letter-spacing": "inherit"
-		},
-		"font6": {
-			"font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
-			"font-size": "18px",
-			"font-weight": "700",
-			"line-height": "42px",
-			"color": "@color-swatch1",
-			"color-hover": "@color-swatch1",
-			"background-color": "@color-swatch6",
-			"background-color-hover": "@color-swatch2",
-			"letter-spacing": "inherit"
-		},
-		"font7": {
-			"font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
-			"font-size": "16px",
-			"font-weight": "700",
-			"line-height": "50px",
-			"color": "@color-swatch1",
-			"background-color": "@color-swatch3",
-			"background-color-hover": "@color-swatch3",
-			"letter-spacing": "inherit"
-		},
-		"font8": {
-			"font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
-			"font-size": "72px",
-			"font-weight": "400",
-			"line-height": "78px",
-			"color": "@color-swatch4",
-			"background-color": "@color-swatch1",
-			"background-color-hover": "@color-swatch1",
-			"letter-spacing": "inherit"
-		},
-		"font9": {
-			"font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
-			"font-size": "24px",
-			"font-weight": "700",
-			"line-height": "34px",
-			"color": "@color-swatch4",
-			"background-color": "@color-swatch4",
-			"background-color-hover": "@color-swatch4",
-			"letter-spacing": "inherit"
-		},
-		"font10": {
-			"font-family": "\"Oswald\", Arial, sans-serif",
-			"font-size": "41px",
-			"font-weight": "700",
-			"line-height": "51px",
-			"color": "@color-swatch4",
-			"background-color": "@color-swatch4",
-			"background-color-hover": "@color-swatch4",
-			"letter-spacing": "inherit"
-		}
-	}
+    },
+    "fontSwatch": {
+        "title": "Montserrat / Trebuchet MS",
+        "font1": {
+            "font-family": "\"Oswald\", Arial, sans-serif",
+            "font-size": "36px",
+            "font-weight": "700",
+            "line-height": "50px",
+            "color": "@color-swatch2",
+            "background-color": "@color-swatch1",
+            "background-color-hover": "@color-swatch1",
+            "letter-spacing": "inherit"
+        },
+        "font2": {
+            "font-family": "\"Oswald\", Arial, sans-serif",
+            "font-size": "24px",
+            "font-weight": "700",
+            "line-height": "36px",
+            "color": "@color-swatch2",
+            "background-color": "@color-swatch2",
+            "background-color-hover": "@color-swatch2",
+            "letter-spacing": "inherit"
+        },
+        "font3": {
+            "font-family": "\"Oswald\", Arial, sans-serif",
+            "font-size": "20px",
+            "font-weight": "700",
+            "line-height": "36px",
+            "color": "@color-swatch2",
+            "background-color": "@color-swatch3",
+            "background-color-hover": "@color-swatch3",
+            "letter-spacing": "inherit"
+        },
+        "font4": {
+            "font-family": "\"Oswald\", Arial, sans-serif",
+            "font-size": "18px",
+            "font-weight": "700",
+            "line-height": "36px",
+            "color": "@color-swatch2",
+            "background-color": "@color-swatch4",
+            "background-color-hover": "@color-swatch4",
+            "letter-spacing": "inherit"
+        },
+        "font5": {
+            "font-family": "\"Open Sans\", Helvetica, Verdana, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "25px",
+            "color": "@color-swatch5",
+            "background-color": "@color-swatch5",
+            "background-color-hover": "@color-swatch5",
+            "letter-spacing": "inherit"
+        },
+        "font6": {
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
+            "font-size": "18px",
+            "font-weight": "700",
+            "line-height": "42px",
+            "color": "@color-swatch1",
+            "color-hover": "@color-swatch1",
+            "background-color": "@color-swatch6",
+            "background-color-hover": "@color-swatch2",
+            "letter-spacing": "inherit"
+        },
+        "font7": {
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
+            "font-size": "16px",
+            "font-weight": "700",
+            "line-height": "50px",
+            "color": "@color-swatch1",
+            "background-color": "@color-swatch3",
+            "background-color-hover": "@color-swatch3",
+            "letter-spacing": "inherit"
+        },
+        "font8": {
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
+            "font-size": "72px",
+            "font-weight": "400",
+            "line-height": "78px",
+            "color": "@color-swatch4",
+            "background-color": "@color-swatch1",
+            "background-color-hover": "@color-swatch1",
+            "letter-spacing": "inherit"
+        },
+        "font9": {
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
+            "font-size": "24px",
+            "font-weight": "700",
+            "line-height": "34px",
+            "color": "@color-swatch4",
+            "background-color": "@color-swatch4",
+            "background-color-hover": "@color-swatch4",
+            "letter-spacing": "inherit"
+        },
+        "font10": {
+            "font-family": "\"Oswald\", Arial, sans-serif",
+            "font-size": "41px",
+            "font-weight": "700",
+            "line-height": "51px",
+            "color": "@color-swatch4",
+            "background-color": "@color-swatch4",
+            "background-color-hover": "@color-swatch4",
+            "letter-spacing": "inherit"
+        }
+    },
+    "screenshot": "white-bear-screenshot.jpg"
 }
